@@ -29,4 +29,4 @@ jobs:
 
     - name: pytest_futtatas
       run: |
-        pytest
+        pytest lab_3_pipeline -v
